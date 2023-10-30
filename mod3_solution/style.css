@@ -1,36 +1,38 @@
 * {
     font-family: 'Playpen Sans', cursive;
-    
 }
 .navbar {
     background-color: rgb(123, 100, 141);
+    padding: 0;
 }
 .navbar-collapse {
     background-color: rgb(139, 134, 152);
 }
 .navbar-brand {
+    padding-left: 15px;
     font-size: 200%;
     color: white;
 }
-
 .nav-link {
     color: white;
 }
-
+#navbardiv {
+    padding: 0;
+}
+li{
+    border-bottom: solid 1px white;
+}
 h1 {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
 h2 {
     padding-bottom: 30px;
 }
-
 #divtext {
     background-color: rgb(123, 100, 141);
     color: white;
     font-size: 150%;
     padding: 30px;
     margin-bottom: 20px;
-
 }
