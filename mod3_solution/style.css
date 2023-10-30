@@ -19,6 +19,9 @@
 #navbardiv {
     padding: 0;
 }
+.navbar-toggler {
+    margin-right: 15px;
+}
 li{
     border-bottom: solid 1px white;
 }
